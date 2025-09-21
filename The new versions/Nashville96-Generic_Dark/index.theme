@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nashville96-Generic_Dark
+Type=X-GNOME-Metatheme
+Comment=A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Kanagawa color scheme.
+
+[X-GNOME-Metatheme]
+GtkTheme=Nashville96-Generic_Dark
+MetacityTheme=Nashville96-Generic_Dark
+IconTheme=
+CursorTheme=
+CursorSize=32
