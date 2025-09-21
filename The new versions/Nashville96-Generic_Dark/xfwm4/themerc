@@ -1,0 +1,58 @@
+# Name: Nashville96 Kanagawa xfwm4 Theme
+# Author: donfaustinocortizone
+# License: GPL-3.0+
+# Changed from Chicago95
+
+#activetitle
+active_color_1= #1B1B1C
+active_color_2= #1B1B1C
+
+#inactivetitle
+inactive_color_1= #161617
+inactive_color_2= #161617
+
+#titletext
+active_text_color= #DADADA
+
+#inactivetitletext
+inactive_text_color= #8C8C8C
+
+#buttonface
+active_mid_1= #1B1B1C
+inactive_mid_1= #1B1B1C
+
+#buttonLight
+active_hilight_1= #1B1B1C
+inactive_hilight_1= #1B1B1C
+
+#buttonhilight
+active_hilight_2= #282829
+inactive_hilight_2= #282829
+
+#activeborder
+active_border_color= #BFBFBF
+inactive_border_color= #1B1B1C
+
+#buttonShadow
+active_shadow_2= #161617
+inactive_shadow_2= #161617
+
+#buttonDKShadow
+active_shadow_1= #333335
+inactive_shadow_1= #333335
+
+#buttontext
+active_mid_2= #DADADA
+inactive_mid_2= #DADADA
+
+#button_layout=O|HMC
+button_offset=1
+button_spacing=0
+full_width_title=true
+maximized_offset=2
+show_app_icon=true
+#title_alignment=left
+title_horizontal_offset=2
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+
