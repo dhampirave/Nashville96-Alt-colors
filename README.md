@@ -3,7 +3,7 @@
 More versions of [Nashville96](https://github.com/donfaustinocortizone/Nashville96), originally made by [donfaustinocortizone](https://github.com/donfaustinocortizone). Right now only a generic black&white theme is available but more will be released soon.
 
 ## Blank Assets
-If you want to create your own flavors of Nashville96, I made 'blank' versions of the images included to make it easier to edit them into your desired colors.
+If you want to create your own flavors of Nashville96, I made 'blank' versions of the images included to make it easier to edit them into your desired colors. They'll be in the "Blank Assets" folder above.
 
 ### Screenshots
 <p align="center">
