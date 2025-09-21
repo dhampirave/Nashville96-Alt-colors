@@ -8,7 +8,7 @@ If you want to create your own flavors of Nashville96, I made 'blank' versions o
 ### Screenshots
 <p align="center">
 	<b>Generic Dark</b>
-	<img src="" alt="Generic Dark version"/>
+	<img src="images/Screenshot at 2025-09-21 13-56-43.png" alt="Generic Dark version"/>
 	
 </p>
 
