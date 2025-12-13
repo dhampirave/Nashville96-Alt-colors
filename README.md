@@ -3,26 +3,34 @@
 	<img src="images/nashville96_logo.png" alt="logo"/>
 </p>
 
-A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incoporating some color schemes. If you are interested in knowing how these themes were developed, [check my comment in the original reddit post](https://www.reddit.com/r/unixporn/comments/yot1si/xfce_chicago95_gruvbox/ivfn4vz/).
+## CURRENT STATUS
+**I no longer use Linux (changed setup last year) and don't have the time to maintain this project. Because I can't provide fixes or support, this repository will be archived.
+As the releases may be outdated, I recommend using the latest commit from `main` (clone the repo or download the repository ZIP) instead of downloading a release archive for recent fixes/changes.** 
+
+**Thanks for all your support. Forks are welcome.**
+
+##
+
+A collection of Windows-like GTK themes based on both [Chicago95](https://github.com/grassmunk/Chicago95) (for GTK3) and [Redmond97](https://github.com/matthewmx86/Redmond97) (for GTK2) incorporating some color schemes. If you are interested in knowing how these themes were developed, [check my comment in the original reddit post](https://www.reddit.com/r/unixporn/comments/yot1si/xfce_chicago95_gruvbox/ivfn4vz/).
 
 **Note 1:** This was made with both XFCE and MATE on mind, so you may find issues if you are using another DE.
 
-**Note 2:** The borderless releases only includes the window manager themes.
+**Note 2:** The borderless releases only include the window manager themes.
 
-**Note 3:** This theme is intented to look better with non-CSD settings. If you want to know how to do that, please check in the *Tips and tricks* section.
+**Note 3:** This theme is intended to look better with non-CSD settings. If you want to know how to do that, please check in the *Tips and tricks* section.
 
 ### Included themes
-- **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox pallete](https://github.com/morhetz/gruvbox).
-- **Nashville96 Kanagawa:** A Windows-like theme using the [Kanagawa pallete](https://github.com/rebelot/kanagawa.nvim).
-- **Nashville96 Solarized:** A Windows-like theme using the [Solarized pallete](https://github.com/altercation/solarized).
-- **Nashville96 Steam:** Included as a bonus, a theme i made ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made enterily in Redmond97 so the tricks at the *Tips and tricks* section **will not** work. This theme is not supported.
+- **Nashville96 Gruvbox:** A Windows-like theme using the [Gruvbox palette](https://github.com/morhetz/gruvbox).
+- **Nashville96 Kanagawa:** A Windows-like theme using the [Kanagawa palette](https://github.com/rebelot/kanagawa.nvim).
+- **Nashville96 Solarized:** A Windows-like theme using the [Solarized palette](https://github.com/altercation/solarized).
+- **Nashville96 Steam:** Included as a bonus, a theme I made a while ago inspired by the [Steam old GUI](https://i.imgur.com/F3JUQ.jpeg). Unlike the other themes, this was made entirely in Redmond97 so the tricks at the *Tips and tricks* section **will not** work. This theme is not supported.
 
 ### Installation
-1. Download and unzip the latest release of your theme of choice.
+1. (Recommended) Clone the repo or download the repository ZIP to get the latest changes. Releases may be outdated.
 2. Copy the folder of the theme to `~/.themes/` if you want a local installation, or just copy to `/usr/share/themes` if you want a global installation.
 3. Select the theme with both Appearance and Window Manager. 
 
-**Note:** To install the borderless or/and the HDPI versions, follow the same steps, however it's just the WM theme so just use the Window Manager selector to change it.
+**Note:** To install the borderless and/or the HiDPI versions, follow the same steps, however it's just the WM theme so just use the Window Manager selector to change it.
 
 ### Tips and tricks
 
@@ -44,7 +52,7 @@ Unlike Chicago95, the desktop icon labels come disabled by default. To revert th
 
 **Disable CSD**
 
-If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) or/and [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
+If you want a more coherent look, you can use [GTK3 classic](https://github.com/lah7/gtk3-classic) and/or [libxfce4ui-nocsd](https://github.com/Xfce-Classic/libxfce4ui-nocsd).
 **Update:** As XFCE 4.18 disables CSD by default, this may be not necessary anymore.
 
 **Get bitmap accurate fonts**
@@ -53,7 +61,7 @@ You can copy the fonts from a default Windows installation and use [PixelPerfect
 
 **Windows icons**
 
-If you are looking for  Windows-like icons i recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
+If you are looking for  Windows-like icons I recommend to use either the [default Chicago95 icons](https://github.com/grassmunk/Chicago95/tree/master/Icons) or [SE98](https://github.com/nestoris/Win98SE).
 		
 ### Screenshots
 <p align="center">
@@ -82,4 +90,5 @@ If you are looking for  Windows-like icons i recommend to use either the [defaul
 - [@tpenguinltg](https://github.com/tpenguinltg) for [Windows Classic theme designer](https://github.com/tpenguinltg/winclassic).
 
 ### License 
-GNU General Public License v3.0
+This repository contains multiple components with different upstream licenses.  
+See `LICENSE.md` and `NOTICE.md` for details.
