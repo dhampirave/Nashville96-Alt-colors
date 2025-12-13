@@ -23,9 +23,6 @@ The GTK3 portions located under `Themes/**/gtk-3.0/` are derived as follows.
 - `Themes/Nashville96-Kanagawa/gtk-3.0/`
 - `Themes/Nashville96-Solarized/gtk-3.0/`
 
-Also includes Cinnamon theming derived from Chicago95:
-- `Themes/Nashville96-Gruvbox/cinnamon/`
-
 **Upstream:** Chicago95 (grassmunk/Chicago95)  
 **License (as stated upstream):** GPL-3.0+/MIT  
 **Upstream repository:** https://github.com/grassmunk/Chicago95
