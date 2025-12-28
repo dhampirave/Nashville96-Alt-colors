@@ -1,0 +1,57 @@
+# Name: Nashville96 Catpuccin Mocha xfwm4 Theme
+# Author: donfaustinocortizone
+# License: GPL-3.0+
+# Changed from Chicago95
+
+#activetitle
+active_color_1= #1E1E2E
+active_color_2= #1E1E2E
+
+#inactivetitle
+inactive_color_1= #181825
+inactive_color_2= #181825
+
+#activetext
+active_text_color= #CDD6F4
+
+#inactivetext
+inactive_text_color= #A6ADC8
+
+#buttonface
+active_mid_1= #1E1E2E
+inactive_mid_1= #1E1E2E
+
+#buttonLight
+active_hilight_1= #1E1E2E
+inactive_hilight_1= #1E1E2E
+
+#buttonhilight
+active_hilight_2= #45475A
+inactive_hilight_2= #45475A
+
+#activeborder
+active_border_color= #BAC2DE
+inactive_border_color= #1E1E2E
+
+#buttonShadow
+active_shadow_2= #181825
+inactive_shadow_2= #181825
+
+#buttonDKShadow
+active_shadow_1= #585B70
+inactive_shadow_1= #585B70
+
+#buttontext
+active_mid_2= #CDD6F4
+inactive_mid_2= #CDD6F4
+
+#button_layout=O|HMC
+button_offset=1
+button_spacing=0
+full_width_title=true
+maximized_offset=2
+show_app_icon=true
+#title_alignment=left
+title_horizontal_offset=2
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
