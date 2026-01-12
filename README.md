@@ -1,7 +1,7 @@
 # Nashville96 Alt Colors
 
 More versions of [Nashville96](https://github.com/donfaustinocortizone/Nashville96), originally made by [donfaustinocortizone](https://github.com/donfaustinocortizone). As of <b>December 2025</b>, the original theme is considered archived and I am not going to take over development.
-<br>Based on the default bordered versions and please don't ask me to do the other versions this is just a personal project.
+<br>Based on the default bordered versions and please don't ask me to do the other versions this is just a personal project. I'm also using this on Linux Mint MATE so I cannot guaranteed that this will work on other DEs
 
 ### Screenshots
 <p align="center">
