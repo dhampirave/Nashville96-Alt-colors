@@ -6,9 +6,9 @@ More versions of [Nashville96](https://github.com/donfaustinocortizone/Nashville
 ### Screenshots
 <p align="center">
 	<b>Generic Dark</b>
-	<img src="images/Screenshot at 2025-09-21 13-56-43.png" alt="Generic Dark version"/>
+	<img src="images/dark_default.png" alt="Generic Dark version"/>
 		<b><a href="https://github.com/catppuccin/catppuccin">Catppuccin Mocha<a/></b>
-	<img src="images/Screenshot at 2025-12-28 15-27-22.png" alt="Generic Dark version"/>
+	<img src="images/catppuccin_mocha.png" alt="Generic Dark version"/>
 	
 </p>
 
