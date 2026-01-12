@@ -1,1 +1,10 @@
-elements in black are meant to be in the fg color, dark grey is the darker fg color. you can just select it and fill it in
+Colors are garish and dont mesh well with eachother to make it easier to just use the bucket tool and fill in the new colors
+
+colors and what they correspond to
+#e30064 -> Primary background color
+#ff7811 -> Lighter background color
+#ffc107 -> (more) Lighter background color
+#921979 -> Darker background color
+#44258c -> (more) Darker background color
+#6dc927 -> Primary foreground color
+#008c8c -> Darker foreground color
