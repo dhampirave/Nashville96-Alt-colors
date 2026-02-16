@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Nashville96-Catppuccin_Mocha
 Type=X-GNOME-Metatheme
-Comment=A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Catppuccin Mocha color scheme.
+Comment=A Windows-like GTK theme based on both Chicago95 (for GTK3) and Redmond97 (for GTK2) incoporating the Kanagawa color scheme.
 
 [X-GNOME-Metatheme]
 GtkTheme=Nashville96-Catppuccin_Mocha
