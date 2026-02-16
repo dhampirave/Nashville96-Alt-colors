@@ -2,14 +2,13 @@
 gtk_color_scheme = 
 "fg_color: #CDD6F4\
 bg_color: #1E1E2E\
-disabled_fg_color: #9399B2\
-base_color: #1E1E2E\
+disabled_fg_color: #a6adc8\
+base_color: #181825\
 text_color: #CDD6F4\
 selected_bg_color: #45475A\
-selected_fg_color: #A6ADC8\
+selected_fg_color: #bac2de\
 tooltip_bg_color: #1E1E2E\
-scale_color #4b6983\
-tooltip_fg_color: #cdd6f4"
+tooltip_fg_color: #CDD6F4"
 ### Begin ###
 
 include "paned.rc"
