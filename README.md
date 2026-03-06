@@ -1,3 +1,5 @@
+Im going to make another fork of this theme and include fixes and other stuff, so this one will be archived as of March 6th 2026
+
 # Nashville96 Alt Colors
 
 More versions of [Nashville96](https://github.com/donfaustinocortizone/Nashville96), originally made by [donfaustinocortizone](https://github.com/donfaustinocortizone). As of <b>December 2025</b>, the original theme is considered archived and I am not going to take over development.
