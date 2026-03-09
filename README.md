@@ -1,4 +1,4 @@
-Im going to make another fork of this theme and include fixes and other stuff, so this one will be archived as of March 6th 2026
+**PENDING UPDATE**
 
 # Nashville96 Alt Colors
 
