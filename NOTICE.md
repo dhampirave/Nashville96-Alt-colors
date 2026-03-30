@@ -40,6 +40,9 @@ These are derived primarily from the same upstream as the corresponding base the
 - Gruvbox / Kanagawa / Solarized: Chicago95-derived
 - Steam: Redmond97-derived
 
+## GTK4
+gtk4 code taken from [Redmond97-SE](https://codeberg.org/Sliver_X/Redmond97-SE)
+
 ## Notes
 - Where upstream files include license headers/notices (e.g., MIT), those notices are preserved alongside the relevant files.
 - If you fork this repo, review the licensing of each component (GTK2 vs GTK3 vs WM themes) before redistributing modifications.
