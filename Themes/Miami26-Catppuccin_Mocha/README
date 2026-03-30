@@ -1,0 +1,16 @@
+╍╍╍╍ Miami26 ╍╍╍╍
+
+Fork of Nashville96 (by donfaustinocortizone) with gtk4 code nabbed from Redmond97-SE (by Silver_X) for GTK 4 support. I adjusted some of the colors along with redoing the color definitions. I only tested this on Linux Mint MATE, I cannot guaranteed that this'll work on other DEs.
+I'm still learning gtk css so updates will not be frequent.
+
+I don't know how to add hdpi support, so I cannot update those.
+
+╍╍╍╍ Credits ╍╍╍╍
+
+- Nashville96 - donfaustinocortizone (https://github.com/donfaustinocortizone/Nashville96)
+- Redmond97-SE  - Silver_X (https://codeberg.org/Sliver_X/Redmond97-SE)
+- Chicago95 - grassmunk (https://github.com/grassmunk/Chicago95)
+- Redmond97 - matthewmx86 (https://github.com/matthewmx86/Redmond97)
+- Catppuccin Mocha - (https://github.com/catppuccin/catppuccin)
+
+
