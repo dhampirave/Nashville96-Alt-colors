@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Miami26-Catppuccin_Mocha
+Type=X-GNOME-Metatheme
+Comment=Fork of Nashville96 with some adjustments and gtk4 support (from Redmond97-SE)
+
+[X-GNOME-Metatheme]
+GtkTheme=Miami26-Catppuccin_Mocha
+MetacityTheme=Miami26-Catppuccin_Mocha
+IconTheme=Mint-Y-Catppuccin-mocha-mauve
+CursorTheme=RiceShower
+CursorSize=32
