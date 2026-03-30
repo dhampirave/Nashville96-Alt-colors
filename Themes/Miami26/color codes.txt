@@ -1,0 +1,18 @@
+colors and what they correspond to
+#1B1B1C -> Primary background color
+#282829 -> Lighter background color
+#333335 -> (more) Lighter background color
+#161617 -> Darker background color
+#0C0C0D -> (more) Darker background color
+#DADADA -> Primary foreground color
+#BFBFBF -> slightly darker foreground color
+#8C8C8C -> Darker foreground color
+#5B5B5D -> (more) Darker foreground color
+#4E4E4E -> even Darker foreground color
+#E9E9E9 -> Lighter foreground color
+
+#51CF66 -> Success
+#FF922B-> Warning
+#FA5252 -> Error
+#A5D8FF -> Link
+#4DABF7 -> Link Shadow 
