@@ -1,0 +1,108 @@
+@import url("../gtk-3.0/gtk.css");
+
+
+menubar {
+    padding: 2px;
+}
+menubar item label {
+    margin: .4em;
+}
+
+dialog-host {
+    padding: 2px;
+}
+
+spinbutton {
+    padding: 1px;
+    border-top: 1px solid @dark_shadow;
+    border-left: 1px solid @dark_shadow;
+    border-bottom: 1px solid @light_shadow;
+    border-right: 1px solid @light_shadow;
+    border-radius: 0px;
+    background-color: @base_color;
+    color: @text_color; }
+  
+
+spinbutton text {	
+	background-color: @theme_base_color;
+	color: @fg_color;
+    padding: 4px;
+}
+
+/*Dimensions work fine in GTK3, but not 4. Hacky workaround*/
+combobox button:active box,
+combobox button:checked box {
+   margin: 0px;
+   margin-left: -1px; }
+
+/* Replicate Xfwm4 window decorations for CSD */
+window.csd, window.solid-csd, window.background.csd, window.background.solid-csd, window.background.dialog.csd, window.background.dialog.solid-csd {
+    padding: 3px;
+    background-color: @bg_color;
+    border: 1px solid @bg_color; 
+    border-right: 1px solid @borders;
+    border-bottom: 1px solid @borders;
+    box-shadow: 1px 1px @light_shadow inset, -1px -1px @dark_shadow inset;
+    border-radius: 0; }
+
+/* Fix menu BG color and borders */
+popover viewport {
+    margin: -1px;
+    border: 1px solid @bg_color;
+    background-color: @bg_color;
+}
+/* Separator pinched horizontally like start menu/etc */
+popover.background separator  {
+    border-left-width: 0px;
+	border-right-width: 0px;
+	margin-right: 8px;
+	margin-left: 8px;
+	margin-top: 0px;
+    margin-bottom: 1px;
+}
+
+.tr-pad-large.vertical button:active, .tr-pad-large.vertical button:checked {
+margin-bottom: 0px;
+}
+.tr-pad-large.vertical button:active > box, .tr-pad-large.vertical button:checked > box {
+    margin-top: 1px;
+    margin-bottom: -1px;
+    margin-left: 1px;
+    margin-right: -1px;
+}
+
+grid > box > button:active, grid > box > button:checked {
+margin-bottom: 0px;
+}
+grid > box > button:active > box, grid > box > button:checked > box {
+    margin-top: 1px;
+    margin-bottom: -1px;
+    margin-left: 1px;
+    margin-right: -1px;
+}
+grid > combobox > box > button:active box,
+grid > combobox > box > button:checked box {
+    margin-bottom: 1px;
+    padding: 1px;
+}
+
+
+/*Hack to fix dotted outlines around literally everything when pointing to Redmond97's GTK3 theme*/
+window * {
+    outline-style: hidden;
+}
+/*Make filechooser backgrounds solid color and match text windows'*/
+window.background filechooser listview *,window.background filechooser gridview * {
+    background-color: @base_color;
+    color: @text_color;
+}
+
+
+/* Make notifications match theme*/
+.app-notification {
+    padding: 0px;
+    background-color: @bg_color;
+    border-radius: 0; 
+}
+
+
