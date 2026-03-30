@@ -12,11 +12,12 @@ Feel free to make your own forks or requests!
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Solarized](https://github.com/altercation/solarized)
 
-### Light versions
-TBA
-
 ## Screenshots
-
+<img src="https://raw.githubusercontent.com/dhampirave/Miami26/refs/heads/Miami26/images/default%20dark.png">
+<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/catppuccinmocha.png?raw=true">
+<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/kanagawa.png?raw=true">
+<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/gruvbox.png?raw=true">
+<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/solarized.png?raw=true">
 
 ## This theme would not be possible without the following:
 - [donfaustinocortizone](https://github.com/donfaustinocortizone) - [Nashville96](https://github.com/donfaustinocortizone/Nashville96)
