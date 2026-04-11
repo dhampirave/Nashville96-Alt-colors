@@ -2,6 +2,7 @@ colors and what they correspond to
 #1B1B1C -> Primary background color
 #282829 -> Lighter background color
 #333335 -> (more) Lighter background color
+#242427 -> Inbetween background color
 #161617 -> Darker background color
 #0C0C0D -> (more) Darker background color
 #DADADA -> Primary foreground color
@@ -16,3 +17,4 @@ colors and what they correspond to
 #FA5252 -> Error
 #A5D8FF -> Link
 #4DABF7 -> Link Shadow 
+
