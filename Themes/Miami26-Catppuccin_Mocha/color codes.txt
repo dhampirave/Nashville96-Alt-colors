@@ -2,6 +2,7 @@ colors and what they correspond to
 #1E1E2E -> Primary background color
 #313244 -> Lighter background color
 #45475A -> (more) Lighter background color
+#282839 -> Inbetween background color
 #181825 -> Darker background color
 #11111B -> (more) Darker background color
 #CDD6F4 -> Primary foreground color
